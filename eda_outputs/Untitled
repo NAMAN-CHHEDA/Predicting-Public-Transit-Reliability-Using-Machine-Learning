@@ -1,0 +1,10 @@
+"Write a script called 05_merge_weather.py that does the following:
+1. Loads data/cleaned/vta_cleaned.parquet
+2. Loads the NOAA weather CSV (4277464.csv) from data/raw/ — columns are STATION, NAME, LATITUDE, LONGITUDE, ELEVATION, DATE, PRCP, TMAX, TMIN
+3. Extracts a date column from the GTFS calendar data — use start_date from the cleaned parquet as the join key, converting it to datetime
+4. Joins weather data to the GTFS DataFrame on date
+5. Adds a new column is_rainy = 1 if PRCP > 0.1 else 0
+6. Adds a new column temp_range = TMAX - TMIN
+7. Prints shape, null counts for weather columns, and a sample of 5 rows showing the joined result
+8. Saves to data/cleaned/vta_with_weather.parquet"
+

@@ -1,0 +1,132 @@
+route_id,direction_id,direction
+CTBUS,0,North
+CTBUS,1,South
+School 288,0,North
+School 288,1,South
+Rapid 523,1,West
+Rapid 523,0,East
+Express 102,0,North
+Express 102,1,South
+202,0,South
+201,0,South
+203,0,North
+72,0,North
+72,1,South
+39,0,North
+39,1,South
+66,0,North
+66,1,South
+School 287,1,Outbound
+26,1,West
+26,0,East
+31,0,North
+31,1,South
+60,0,North
+60,1,South
+68,0,North
+68,1,South
+73,1,South
+73,0,North
+25,1,West
+25,0,East
+57,0,North
+57,1,South
+School 256,1,West
+School 256,0,East
+School 288L,0,North
+School 288L,1,South
+70,1,South
+70,0,North
+ACE Gray,0,North
+ACE Gray,1,South
+ACE Green,1,West
+ACE Green,0,East
+71,1,South
+71,0,North
+ACE Orange,0,East
+ACE Orange,1,West
+ACE Yellow,1,South
+ACE Yellow,0,North
+ACE Purple,1,West
+ACE Purple,0,East
+ACE Brown,0,East
+ACE Brown,1,West
+ACE Violet,1,West
+ACE Violet,0,East
+61,1,South
+61,0,North
+Express 103,1,West
+Express 103,0,East
+Express 104,0,East
+Express 104,1,West
+ACE Red,1,West
+ACE Red,0,East
+47,0,East
+47,1,West
+Express 101,0,North
+Express 101,1,South
+23,1,West
+23,0,East
+27,0,East
+27,1,West
+School 246,0,East
+School 246,1,West
+School 247,0,East
+School 247,1,West
+Green Line,1,South
+Green Line,0,North
+Orange Line,0,East
+Orange Line,1,West
+21,1,West
+21,0,East
+83,1,South
+83,0,North
+Rapid 500,0,North
+Rapid 500,1,South
+37,0,East
+37,1,West
+40,1,South
+40,0,North
+51,0,North
+51,1,South
+52,0,North
+52,1,South
+84,1,South
+84,0,North
+86,1,South
+86,0,North
+56,0,North
+56,1,South
+85,1,South
+85,0,North
+87,0,North
+87,1,South
+89,1,South
+89,0,North
+Rapid 522,1,West
+Rapid 522,0,East
+42,1,South
+42,0,North
+53,1,West
+53,0,East
+64B,1,South
+64B,0,North
+77,0,North
+77,1,South
+200,1,West
+20,0,East
+20,1,West
+22,1,West
+22,0,East
+59,1,South
+59,0,North
+Blue Line,1,South
+Blue Line,0,North
+64A,1,South
+64A,0,North
+Rapid 568,1,South
+Rapid 568,0,North
+School 255,1,South
+School 255,0,North
+55,1,South
+55,0,North

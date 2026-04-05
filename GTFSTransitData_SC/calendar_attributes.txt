@@ -1,0 +1,79 @@
+service_id,service_description
+76351,"Wed, Fri"
+76349,"Wed, Fri"
+77823,"Mon, Tue, Thurs"
+77821,"Mon, Tue, Thurs, Fri"
+76350,Monday
+76346,Thursday
+77780,Weekday
+77820,Monday
+77822,"Tue, Thurs"
+76347,"Mon, Tue, Thurs"
+77824,"Wed, Fri"
+77825,"Mon, Tue, Thurs"
+77826,"Mon, Tue, Thurs"
+77827,"Wed, Fri"
+77828,"Mon, Wed, Fri"
+77829,"Tue, Thurs"
+77830,"Wed, Fri"
+72914,Weekday
+72915,Saturday
+72916,Sunday/Holiday
+76275,"Mon, Tue, Thurs"
+76276,"Mon, Wed, Fri"
+76277,"Tue, Thurs"
+76278,"Tue, Thurs"
+76279,"Mon, Wed, Fri"
+76280,Wednesday
+76352,Weekday
+76281,"Wed, Fri"
+76353,Weekday
+76282,"Mon, Tue, Thurs"
+76354,"Mon, Tue, Thurs"
+76283,Weekday
+76355,Monday
+76284,Saturday
+76356,Weekday
+76285,Sunday
+76357,Weekday
+76286,Weekday
+76358,Tue-Fri
+76287,"Tue, Thurs"
+76359,"Wed, Fri"
+76288,"Wed, Fri"
+76360,"Mon, Tue, Thurs"
+76289,"Mon, Tue, Thurs"
+76513,Weekday
+76290,"Wed, Fri"
+77739,Weekday
+76291,Weekday
+77740,Thursday
+76292,Mon-Thurs
+77806,Wednesday
+76293,"Wed, Fri"
+77807,Weekday
+76294,Weekday
+77808,Weekday
+76295,"Wed, Fri"
+77809,Sunday
+76296,Weekday
+77810,Mon-Thurs
+76297,"Mon, Tue, Thurs"
+77811,Friday
+76298,Monday
+77812,"Tue, Thurs"
+76299,Tue-Fri
+77813,"Mon, Wed, Fri"
+76300,Saturday
+77814,"Wed, Fri"
+76301,Sunday
+77815,"Wed, Fri"
+76302,Weekday
+77816,Weekday
+76342,"Wed, Fri"
+77817,Wednesday
+76343,"Mon, Tue, Thurs"
+77818,"Mon, Tue, Thurs, Fri"
+76344,"Mon, Tue, Thurs"
+77819,Monday
+76345,"Mon, Tue, Fri"
