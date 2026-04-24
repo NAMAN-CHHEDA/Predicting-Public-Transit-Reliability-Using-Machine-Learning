@@ -1,0 +1,4 @@
+model,f1,roc_auc,precision,recall
+Logistic Regression,1.0,1.0,1.0,1.0
+Random Forest,1.0,1.0,1.0,1.0
+SVM,0.8,1.0,0.6666666666666666,1.0

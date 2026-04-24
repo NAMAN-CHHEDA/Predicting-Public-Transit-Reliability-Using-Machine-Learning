@@ -1,0 +1,239 @@
+feature,importance
+cat__delay_snapshot_ts_nan,0.13209007183231547
+cat__current_status_name_nan,0.1099257470384348
+cat__occupancy_label_nan,0.09622783422875056
+cat__occupancy_label_EMPTY,0.08332392281606733
+num__tmin,0.046239697294894286
+num__delay_vehicle_id,0.04110376134439089
+num__service_id,0.037962765056837294
+num__sunday,0.037178987544518864
+num__speed_mph,0.036815704938531056
+num__end_date_dayofweek,0.0358295306895034
+num__wx_date_dayofweek,0.03486862468319036
+num__start_date_dayofweek,0.032343098728544885
+num__tmax,0.03210783927572381
+cat__delay_snapshot_ts_2026-04-05T20:30:51.928242+00:00,0.03200850938269026
+num__departure_sec,0.02733179277635267
+num__actual_delay_seconds,0.024765880713216122
+cat__current_status_name_IN_TRANSIT_TO,0.021124490463623448
+num__arrival_td,0.01845625422506352
+num__departure_td,0.018171317311864936
+num__arrival_sec,0.011891868049068855
+cat__current_status_name_INCOMING_AT,0.01013707514760933
+num__wednesday,0.006958597761576215
+num__temp_range,0.006643590876707595
+num__tuesday,0.006371038853090517
+cat__delay_snapshot_ts_2026-04-06T00:01:19.348037+00:00,0.005390766730304053
+num__stop_id,0.004975002162676263
+num__friday,0.0036085736291371464
+num__monday,0.003286963139244545
+num__saturday,0.003270466837142371
+cat__delay_snapshot_ts_2026-04-06T02:00:29.210655+00:00,0.0031800115911225944
+cat__trip_headsign_DE ANZA COLLEGE,0.0024678229484247313
+cat__route_short_name_25,0.0021101400780198076
+cat__route_long_name_West Valley Coll - Eastridge,0.0019937434270630642
+cat__route_id_25,0.0016145265300817372
+cat__trip_headsign_ALUM ROCK STATION,0.0016012109551846762
+cat__route_short_name_26,0.001463495288379057
+cat__route_long_name_Foothill Coll - Mtn View TC via N. Bayshore,0.0014367293143345155
+num__thursday,0.0014265798003950786
+cat__trip_headsign_WESTGATE,0.0013292746685994766
+num__direction_id,0.001294988475182126
+cat__route_short_name_68,0.0012664107824554931
+cat__route_long_name_San Jose Diridon - Gilroy TC,0.0012371052088474492
+cat__route_long_name_Palo Alto TC - Eastridge,0.001230957246143848
+cat__route_id_26,0.0011859281486162475
+cat__route_id_40,0.0010526704105165146
+cat__route_id_68,0.0009437340763185586
+cat__trip_headsign_RAPID SAN JOSE STATE,0.0007982774672870083
+cat__route_id_22,0.0006947968511651539
+cat__route_long_name_North Milpitas - Santa Teresa Stn,0.0006277375311407095
+cat__route_short_name_22,0.0006127697286919654
+cat__route_long_name_De Anza Coll - Alum Rock via Valley Med,0.0005715529605047237
+cat__trip_headsign_EASTRIDGE,0.000561714683993336
+cat__route_short_name_40,0.0005586068396810579
+cat__route_short_name_66,0.000532596147763275
+cat__trip_headsign_MOUNTAIN VIEW TRANSIT CTR,0.0005267820734501798
+cat__route_id_71,0.0004997532061043207
+cat__route_id_Rapid 523,0.000477696826633211
+cat__route_long_name_De Anza Coll - Alum Rock via Stevens Crk,0.0004675578776881522
+cat__trip_headsign_GOOD SAM HOSPITAL VIA BASCOM,0.00035687467440331376
+cat__trip_headsign_GILROY TRANSIT CTR,0.0002739714269746885
+cat__route_id_21,0.00027078913811826955
+cat__route_id_64A,0.00026791726803006874
+cat__route_long_name_San Jose State - Lockheed Martin via De Anza,0.0002326366380802734
+cat__trip_headsign_SJ DIRIDON,0.00022356112060408376
+cat__route_short_name_70,0.00022121376802138783
+cat__route_short_name_60,0.0002210948683350325
+cat__trip_headsign_PALO ALTO,0.00021735920873865177
+cat__route_id_61,0.0002059505910129151
+cat__route_short_name_23,0.00019989382578804556
+cat__route_long_name_Sierra & Piedmont - Good Samaritan Hospital,0.00019830268085069497
+cat__route_id_70,0.0001939188033714209
+cat__route_id_66,0.00018259907813167732
+cat__route_short_name_61,0.0001803335283684992
+cat__trip_headsign_SANTA TERESA STATION,0.00017262340858893155
+cat__route_long_name_Lockheed Martin - Monterey & Old Tully,0.00012979289856802526
+cat__route_long_name_Milpitas BART - Capitol Stn via Jackson,0.00012538019478461449
+cat__route_long_name_Ohlone-Chynoweth Stn - McKee & White,0.00012262374291101827
+cat__route_short_name_Rapid 523,0.00011742804667506749
+cat__route_id_56,0.00011576317497076042
+cat__route_long_name_Milpitas BART - Winchester Stn via SJC Airport,0.00011462811714834627
+cat__route_long_name_Dtwn SJ - Senter & Monterey via McLaughlin,0.00011372916666319774
+cat__route_id_23,9.70022597255724e-05
+cat__trip_headsign_NORTH MILPITAS,9.391496220711631e-05
+cat__route_short_name_21,7.86162001240523e-05
+cat__trip_headsign_MILPITAS BART,7.318740205808554e-05
+cat__route_id_Rapid 522,6.779838301462263e-05
+cat__trip_headsign_SANTA CLARA TRANSIT CTR,6.666533185762421e-05
+cat__route_short_name_71,6.606039223086698e-05
+cat__route_short_name_Rapid 522,6.257266387887352e-05
+cat__route_short_name_64A,6.239349207948187e-05
+cat__route_id_72,5.945510567453425e-05
+cat__route_id_77,5.7549197712290286e-05
+cat__route_long_name_Stanford Shopping Ctr - Santa Clara TC,5.5198784148152887e-05
+cat__trip_headsign_VALLEY MEDICAL CTR,5.33547707894626e-05
+cat__trip_headsign_FAIR OAKS & TASMAN,5.291239640986456e-05
+cat__route_short_name_56,4.821022844401163e-05
+cat__trip_headsign_infrequent_sklearn,4.4031546492339465e-05
+cat__route_id_60,4.330513733905277e-05
+cat__route_short_name_27,3.4526804257900737e-05
+cat__trip_headsign_STANFORD SHOPPING CTR,3.1827329704291984e-05
+cat__route_short_name_77,2.7246065769983833e-05
+cat__route_id_27,2.6989993211841983e-05
+cat__route_short_name_59,2.5969065398883088e-05
+cat__route_long_name_Old Ironsides Stn - West Valley Coll,2.5381390576853035e-05
+cat__trip_headsign_OLD IRONSIDES STATION,2.4101275720856864e-05
+cat__route_long_name_Valley Med - Baypointe via Alviso,2.2232920864342794e-05
+cat__route_long_name_Gilroy TC - St. Louise Hosp via West Gilroy,1.4950321124100573e-05
+cat__route_long_name_Milpitas BART - Eastridge via White,1.348403305218665e-05
+cat__trip_headsign_RAPID EASTRIDGE,1.2371230249231006e-05
+cat__trip_headsign_MILPITAS BART VIA AIRPORT,7.614128688087362e-06
+cat__trip_headsign_OHLONE-CHYNOWETH STATION,4.13780413422475e-06
+cat__route_long_name_Winchester Stn - Santa Teresa Stn,3.809868287377032e-06
+cat__occupancy_label_FEW_SEATS_AVAILABLE,3.18041590208414e-06
+cat__route_short_name_57,2.9162870346750786e-06
+cat__route_long_name_Palo Alto TC - Eastridge Rapid,2.8419672740298504e-06
+cat__trip_headsign_BERRYESSA BART,8.608005537293565e-07
+cat__route_long_name_Gilroy TC - San Jose Diridon,5.221484694509204e-16
+cat__trip_headsign_RAPID LOCKHEED MARTIN,5.123087885845342e-16
+cat__trip_headsign_FOOTHILL COLLEGE,4.964532690801165e-16
+cat__route_id_51,4.961464473969757e-16
+cat__route_id_86,4.746736048593301e-16
+cat__route_long_name_Old Ironsides Stn - De Anza Coll,4.708307692378743e-16
+cat__trip_headsign_SAN JOSE STATE,4.653247116927341e-16
+cat__route_short_name_64B,4.605697674968429e-16
+cat__trip_headsign_GOOD SAM HOSPITAL VIA UNION,4.536861264951227e-16
+cat__trip_headsign_WINCHESTER STATION,4.3643812095798996e-16
+cat__route_long_name_San Jose Diridon - Berryessa BART,4.3004832970726043e-16
+cat__route_long_name_Dtwn SJ - Senter & Monterey via Senter,4.0209967891566747e-16
+cat__trip_headsign_WINCHESTER STATION VIA AIRPORT,3.803951508231083e-16
+cat__route_id_55,3.371483537985972e-16
+cat__route_id_89,3.1244787251196694e-16
+cat__route_id_57,2.9311340766792677e-16
+cat__route_long_name_Evergreen Valley Coll - Santa Teresa Stn,2.7658064640638535e-16
+cat__route_long_name_Moffett Field - West Valley Coll,2.539912718920342e-16
+cat__route_long_name_Gilroy TC - St. Louise Hosp via Gilroy Outlets,2.3746445348068195e-16
+cat__route_id_53,2.2776783550993536e-16
+cat__route_short_name_Rapid 568,2.2194921688147872e-16
+cat__route_long_name_Evergreen Valley Coll - Eastridge,2.1194331012440442e-16
+cat__trip_headsign_LOCKHEED MARTIN,2.1121607897067888e-16
+cat__route_long_name_Foothill Coll - Mnt View TC via El Monte,2.0612990605653413e-16
+cat__route_short_name_Rapid 500,2.0511410620530523e-16
+cat__route_id_Rapid 568,2.0444503380674886e-16
+cat__trip_headsign_MONTEREY & OLD TULLY,1.947665239305204e-16
+cat__trip_headsign_WEST VALLEY COLLEGE,1.7577819892237212e-16
+cat__route_short_name_47,1.742192214735299e-16
+num__exception_removed_count,1.5050895047489904e-16
+cat__trip_headsign_RAPID PALO ALTO,1.4922025406964414e-16
+cat__trip_headsign_MCKEE & WHITE,1.43483338689445e-16
+cat__trip_headsign_ALMADEN & CAMDEN,1.3961415722400134e-16
+cat__route_long_name_California Ave Caltrain - Palo Alto VA Hosp,1.2943152507309303e-16
+cat__route_long_name_Gavilan Coll - Gilroy TC,1.268441818224513e-16
+cat__route_short_name_39,1.2559397488785047e-16
+cat__route_short_name_31,1.2270778341881842e-16
+cat__trip_headsign_DOWNTOWN SAN JOSE VIA MCLAUGHLIN,1.0868894609586208e-16
+cat__route_short_name_72,1.036429981681523e-16
+cat__route_id_39,7.899076073303201e-17
+cat__route_id_84,7.184937169654967e-17
+cat__route_short_name_85,7.063331544254264e-17
+cat__route_long_name_Milpitas BART - Sunnyvale TC,6.629462279055134e-17
+cat__route_short_name_53,4.214834696028183e-17
+cat__trip_headsign_WILLIAMS & SARATOGA,4.0787008620714993e-17
+num__wheelchair_accessible,0.0
+num__pickup_type,0.0
+num__is_rainy,0.0
+num__drop_off_type,0.0
+num__bikes_allowed,0.0
+num__route_type,0.0
+num__wx_date_hour,0.0
+num__start_date_month,0.0
+num__end_date_hour,0.0
+num__start_date_hour,0.0
+num__end_date_month,0.0
+num__wx_date_month,0.0
+cat__route_id_20,0.0
+cat__trip_headsign_MOFFETT FIELD,0.0
+cat__trip_headsign_MCCARTHY RANCH,0.0
+cat__route_id_Express 102,0.0
+cat__route_id_Rapid 500,0.0
+cat__route_id_ACE Violet,0.0
+cat__trip_headsign_BAYPOINTE STATION,0.0
+cat__trip_headsign_CAPITOL STATION,0.0
+cat__trip_headsign_DOWNTOWN SAN JOSE VIA SENTER,0.0
+cat__route_id_Express 101,0.0
+cat__route_id_64B,0.0
+cat__route_id_73,0.0
+cat__route_id_83,0.0
+cat__route_id_85,0.0
+cat__route_id_ACE Brown,0.0
+cat__route_id_ACE Green,0.0
+cat__route_id_ACE Purple,0.0
+cat__route_id_59,0.0
+cat__route_id_52,0.0
+cat__route_id_47,0.0
+cat__route_id_42,0.0
+cat__route_id_31,0.0
+cat__route_id_37,0.0
+num__exception_added_count,0.0
+num__has_exception,0.0
+num__prcp,0.0
+cat__trip_headsign_SIERRA & PIEDMONT,0.0
+cat__trip_headsign_ST LOUISE HOSPITAL,0.0
+cat__trip_headsign_SENTER & MONTEREY VIA MCLAUGHLIN,0.0
+cat__trip_headsign_RAPID BERRYESSA BART,0.0
+cat__trip_headsign_RAPID SJ DIRIDON,0.0
+cat__trip_headsign_SENTER & MONTEREY VIA SENTER,0.0
+cat__route_short_name_20,0.0
+cat__route_short_name_ACE Purple,0.0
+cat__route_short_name_ACE Green,0.0
+cat__route_short_name_ACE Brown,0.0
+cat__route_short_name_89,0.0
+cat__route_short_name_86,0.0
+cat__route_short_name_84,0.0
+cat__route_short_name_83,0.0
+cat__route_short_name_73,0.0
+cat__route_short_name_52,0.0
+cat__route_short_name_51,0.0
+cat__route_short_name_42,0.0
+cat__route_short_name_37,0.0
+cat__route_short_name_55,0.0
+cat__trip_headsign_PALO ALTO TRANSIT CTR,0.0
+cat__trip_headsign_SUNNYVALE TRANSIT CTR,0.0
+cat__route_long_name_Eastridge - The Villages,0.0
+cat__route_long_name_Milpitas BART - Alder Stn via McCarthy Ranch,0.0
+cat__route_long_name_Milpitas BART - Eastridge via King,0.0
+cat__route_short_name_Express 101,0.0
+cat__route_short_name_Express 102,0.0
+cat__route_long_name_Almaden & Camden - Mckee & White,0.0
+cat__route_short_name_ACE Violet,0.0
+cat__route_long_name_Camden & Hwy 85 - Stanford Research Park,0.0
+cat__route_long_name_Ohlone-Chynoweth Stn - Almaden & McKean,0.0
+cat__route_long_name_Sunnyvale TC - Santa Clara TC,0.0
+cat__route_long_name_South San Jose - Stanford Research Park,0.0
+cat__route_long_name_South Milpitas,0.0
+cat__route_long_name_North Santa Clara,0.0
+cat__route_long_name_North San Jose,0.0
+cat__occupancy_label_FULL,0.0
+cat__route_long_name_West Milpitas,0.0
+cat__route_long_name_West Valley Coll - Capitol Stn,0.0
