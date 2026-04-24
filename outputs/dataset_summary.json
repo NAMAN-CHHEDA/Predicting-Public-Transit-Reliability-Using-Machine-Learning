@@ -1,0 +1,9 @@
+{
+  "full_rows": 361885,
+  "observed_rows": 591,
+  "observed_delay_rate": 0.08121827411167512,
+  "observed_routes": 33,
+  "observed_stops": 402,
+  "observation_date_min": "2026-04-05",
+  "observation_date_max": "2026-04-23"
+}

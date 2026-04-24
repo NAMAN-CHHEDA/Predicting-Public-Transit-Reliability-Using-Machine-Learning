@@ -1,2 +1,14 @@
-venv/
+.venv/
+__pycache__/
+*.pyc
 .DS_Store
+.ipynb_checkpoints/
+.env
+
+# large or generated files you may not want in repo
+*.joblib
+*.pkl
+
+# mac
+.AppleDouble
+.LSOverride

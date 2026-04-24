@@ -1,0 +1,6 @@
+{
+  "best_model": "logistic_regression",
+  "full_observed_rows": 591,
+  "positive_rows": 48,
+  "negative_rows": 543
+}
