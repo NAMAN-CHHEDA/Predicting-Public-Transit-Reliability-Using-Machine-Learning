@@ -1,14 +1,29 @@
 .venv/
 __pycache__/
 *.pyc
-.DS_Store
 .ipynb_checkpoints/
+.DS_Store
 .env
 
-# large or generated files you may not want in repo
+# generated / local artifacts
+outputs/
+models/
 *.joblib
 *.pkl
+*.zip
 
-# mac
-.AppleDouble
-.LSOverride
+# large local data
+data/raw/
+data/cleaned/
+*.csv
+
+# keep presentation files
+!presentation/
+!presentation/*.pptx
+!presentation/*.ppt
+
+# keep code and docs
+!*.py
+!*.ipynb
+!README.md
+!requirements.txt
