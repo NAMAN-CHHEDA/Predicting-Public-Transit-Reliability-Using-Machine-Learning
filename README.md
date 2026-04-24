@@ -320,6 +320,8 @@ shap.summary_plot(shap_values[1], X_test)
 
 ## 9. How to Run Everything
 
+**Paths:** `config.py` sets the project root to the directory that contains it (the repo folder). You can clone the project anywhere; teammates do not need to edit hardcoded machine paths. Data is read from `data/cleaned/` and `data/raw/`, and model run outputs are written to `outputs/` and `models/`.
+
 Run these steps in order from inside the `GROUP_PROJECT/` folder.
 
 ```bash

@@ -1,3 +1,37 @@
+# Python virtual environments (never commit — thousands of site-packages files)
+.venv/
 venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
 .DS_Store
+<<<<<<< HEAD
 .virtualenvs/Backend-AgIoE5qa
+=======
+.env
+
+# generated / local artifacts
+outputs/
+models/
+*.joblib
+*.pkl
+*.zip
+
+# large local data
+data/raw/
+data/cleaned/
+*.csv
+
+# keep presentation files
+!presentation/
+!presentation/*.pptx
+!presentation/*.ppt
+
+# keep code and docs
+!*.py
+!*.ipynb
+!README.md
+!requirements.txt
+>>>>>>> dc4c3f4486240b7cf7de4f28bb5e0efab24875f7
